@@ -48,7 +48,7 @@ chmod +x xxe_exploit.sh
 | Flag | Descripción | Requerido |
 |------|-------------|-----------|
 | `-u <url>` | URL del objetivo | ✅ |
-| `-l <ip>` | Tu IP local/atacante | ✅ |
+| `-l <ip>` | Tu IP local/atacante/victima | ✅ |
 | `-f <archivo>` | Archivo remoto a leer | ✅ |
 | `-p <puerto>` | Puerto del servidor HTTP local (por defecto: 80) | ❌ |
 | `-x <archivo>` | Payload XML personalizado | ❌ |
